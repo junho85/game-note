@@ -3,7 +3,7 @@
 
 
 
-== 일곱 바다 항해하기
+== 일곱 바다 항해하기 Sail the Seven Seas
 모든 바다 바이옴을 방문하세요.
 
 Frozen Ocean - 빙하
@@ -14,17 +14,50 @@ Lukewarm Ocean - 모래
 
 Warm Ocean - 산호
 
-
 바닥을 밟아야 되나?
 
 
 
-== 얼음의 요정!
+=== References
+https://bugs.mojang.com/browse/MCPE-87865[The achievement "Sail the Seven Seas" does not work]
+안 된다고 글 올렸는데 결국 하긴 했다고 함.
+
+
+
+https://minecraft.fandom.com/wiki/Tutorials/Achievement_guide#Sail_the_7_Seas[Sail the 7 Seas]
+
+* Warm Ocean
+* Regular Ocean
+* Lukewarm Ocean
+* Cold Ocean
+* Frozen Ocean
+* Regular Deep Ocean
+* Deep Lukewarm Ocean
+* Deep Cold Ocean
+* Deep Frozen Ocean
+
+보트를 타거나 수영을 하면 된다고 함
+
+
+
+== 얼음의 요정! Let it Go!
 차가운 걸음 효과가 부여된 부츠를 신고 깊은 바다에서 얼어 있는 수면위를 1블록 이상 이동하세요.
+
+=== References
+* https://minecraft.fandom.com/wiki/Tutorials/Achievement_guide#Let_it_Go.21[Let it Go!]
+
+
 
 
 == 압도적인 힘
 효과부여 사과를 먹으세요
+
+먹기만 하면 되는데 효과부여 사과 찾기가 쉽지는 않음.
+정리: https://junho85.pe.kr/2001
+
+업데이트 되면서 바뀔지는 모르겠지만 던전에서 찾는게 가장 빠를 것으로 보임
+
+
 
 == 인공 선택
 말과 당나귀를 교배시켜 노새를 만드십시오.

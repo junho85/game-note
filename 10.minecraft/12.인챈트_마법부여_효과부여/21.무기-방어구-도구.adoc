@@ -45,3 +45,21 @@ type2. 드롭 최대치 + 2
 III
 type1. 20% 확률로 2배, 3배 또는 4배의 아이템 드롭
 type2. 드롭 최대치 + 3
+
+== 다중 발사 (Multishot). 멀티샷 (베드락) - 쇠뇌
+
+== 보호 (Protection). 방어 (베드락). Max 4
+
+
+== 화염으로부터 보호 (Fire protection). 화염 방어 (베드락). Max 4
+* I:
+* II:
+* III:
+* IV:
+
+보호, 화염으로부터 보호, 폭발로부터 보호, 발사체로부터 보호는 함께 부여 할 수 없음
+
+
+
+== References
+* https://namu.wiki/w/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8/%EB%A7%88%EB%B2%95%20%EB%B6%80%EC%97%AC[마인크래프트/마법 부여]
